@@ -1,7 +1,2 @@
-
-
-
-
-
-Practice HTML Cnd SS
+Practice HTML and CSS
 
