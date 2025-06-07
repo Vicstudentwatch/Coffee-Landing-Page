@@ -18,12 +18,20 @@ nav{
     padding: 10px 60px;
 }
 ul{
+    font-size: 20px;
     list-style: none;
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 20px;
-    
+    a{
+        text-decoration: none;
+        color: #001eff;
+        transition: color 0.3s ease-in-out;
+    }
+    a:hover{
+        color: #1a1d3b;
+    }
 }
 main{
     height: 100vh;
